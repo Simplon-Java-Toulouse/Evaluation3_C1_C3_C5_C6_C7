@@ -40,7 +40,7 @@ Une évaluation est forçément positive
 - gestion de l'authentification & autre aspect securité
 - paiement en ligne
 
-**Bonus** -> Vous pourrez réaliser une plannification de ces taches à l'aide d'un kanban.
+ -> réaliser une plannification de ces taches à l'aide d'un kanban.
 
 **Documents à produire :**
 - spécifications techniques
