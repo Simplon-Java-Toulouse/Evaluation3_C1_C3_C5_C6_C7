@@ -25,6 +25,8 @@ Une évaluation est forçément positive
 
 *Il souhaite offrir des accès privilégiés aux hoteliers afin d'ajouter/modifier une image pour chaque hotel et de modifier les informations détaillées (nom de l'Hotel, tel, adresse, nombre d'étoiles)*
 
+**BONUS**
+
 *Enfin, si vous avez le temps ici de réfléchir à l'idée qu'un visiteur une fois connecté, doit pouvoir effectuer une réservation et tout ce qui s'en suit (nb de chambres + nb de personnes + dates)*
 
 ~~Il y a bien des choses que le client a répertorié mais ce sera pour le sprint suivant :~~
